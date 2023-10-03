@@ -10,3 +10,21 @@
 
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
+##### Настройка двух серверов.
+Подчёркнуты ID первого и второго сервера
+
+![2.1](https://github.com/NikolayAntipov/DB_12-06/blob/main/img/2.1.JPG)   
+
+##### Строка с которой читать на мастере
+![2.2](https://github.com/NikolayAntipov/DB_12-06/blob/main/img/2.2.JPG)
+
+##### Настройка слейва
+![2.3](https://github.com/NikolayAntipov/DB_12-06/blob/main/img/2.3.JPG)    
+
+##### Статус слейва
+Подчёркнуты настройки на мастере
+![2.4](https://github.com/NikolayAntipov/DB_12-06/blob/main/img/2.4.JPG)
+
+##### Тест репликации
+![2.5](https://github.com/NikolayAntipov/DB_12-06/blob/main/img/2.5.JPG)   
+
